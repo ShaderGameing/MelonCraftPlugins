@@ -8,6 +8,7 @@ class=MelonFactions
 apiversion=12
 */
 /*
+<-----OLD API------->
  * >>>>>Commands<<<<<
  *  [ /f ] 
  * # join - Directly join a faction. 
